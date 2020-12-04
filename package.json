@@ -1,5 +1,5 @@
 {
-  "name": "GuiRecorder",
+  "name": "guirecorder",
   "productName": "GuiRecorder",
   "version": "1.0.0",
   "description": "My Electron application description",
@@ -21,7 +21,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "my_app"
+            "name": "Gui_Recorder"
           }
         },
         {
